@@ -1,0 +1,19 @@
+{
+  "empty": {
+    "word": "empty",
+    "phonetic": "/ˈɛmpti/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Containing nothing",
+          "example": "The box is empty."
+        }
+      ]
+    },
+    "antonyms": ["full"],
+    "usage_examples": [
+      "The bottle is empty."
+    ]
+  }
+}

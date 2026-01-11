@@ -1,0 +1,25 @@
+{
+  "echo": {
+    "word": "echo",
+    "phonetic": "/ˈɛkoʊ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A sound reflected back",
+          "example": "An echo in the valley."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To repeat a sound",
+          "example": "Her voice echoed."
+        }
+      ]
+    },
+    "synonyms": ["repeat"],
+    "usage_examples": [
+      "The hall echoed loudly."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "estimate": {
+    "word": "estimate",
+    "phonetic": "/ˈɛstɪmeɪt/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To roughly calculate",
+          "example": "Estimate the cost."
+        }
+      ]
+    },
+    "usage_examples": [
+      "The estimate was accurate."
+    ]
+  }
+}

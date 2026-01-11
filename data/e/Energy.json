@@ -1,0 +1,18 @@
+{
+  "energy": {
+    "word": "energy",
+    "phonetic": "/ˈɛnərdʒi/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Power or strength for activity",
+          "example": "Solar energy."
+        }
+      ]
+    },
+    "usage_examples": [
+      "He has a lot of energy."
+    ]
+  }
+}

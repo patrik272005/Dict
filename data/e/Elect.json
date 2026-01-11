@@ -1,0 +1,18 @@
+{
+  "elect": {
+    "word": "elect",
+    "phonetic": "/ɪˈlɛkt/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To choose by voting",
+          "example": "They elected a leader."
+        }
+      ]
+    },
+    "usage_examples": [
+      "The president was elected."
+    ]
+  }
+}

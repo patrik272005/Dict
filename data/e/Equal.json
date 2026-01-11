@@ -1,0 +1,19 @@
+{
+  "equal": {
+    "word": "equal",
+    "phonetic": "/ˈiːkwəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Being the same in value or size",
+          "example": "Equal rights."
+        }
+      ]
+    },
+    "antonyms": ["unequal"],
+    "usage_examples": [
+      "All are equal."
+    ]
+  }
+}

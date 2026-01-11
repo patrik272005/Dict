@@ -1,0 +1,18 @@
+{
+  "element": {
+    "word": "element",
+    "phonetic": "/ˈɛlɪmənt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A basic part of something",
+          "example": "An element of truth."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Hydrogen is an element."
+    ]
+  }
+}

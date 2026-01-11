@@ -1,0 +1,18 @@
+{
+  "enhance": {
+    "word": "enhance",
+    "phonetic": "/ɪnˈhɑːns/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To improve quality or value",
+          "example": "Enhance performance."
+        }
+      ]
+    },
+    "usage_examples": [
+      "This will enhance skills."
+    ]
+  }
+}

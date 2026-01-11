@@ -1,0 +1,18 @@
+{
+  "event": {
+    "word": "event",
+    "phonetic": "/ɪˈvɛnt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Something that happens",
+          "example": "A major event."
+        }
+      ]
+    },
+    "usage_examples": [
+      "The event was successful."
+    ]
+  }
+}

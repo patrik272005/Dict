@@ -1,0 +1,18 @@
+{
+  "enter": {
+    "word": "enter",
+    "phonetic": "/ˈɛntər/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To go into a place",
+          "example": "Enter the room."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Please enter your name."
+    ]
+  }
+}

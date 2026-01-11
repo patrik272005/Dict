@@ -1,0 +1,18 @@
+{
+  "enjoy": {
+    "word": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To take pleasure in",
+          "example": "Enjoy the movie."
+        }
+      ]
+    },
+    "usage_examples": [
+      "She enjoys music."
+    ]
+  }
+}

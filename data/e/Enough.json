@@ -1,0 +1,18 @@
+{
+  "enough": {
+    "word": "enough",
+    "phonetic": "/ɪˈnʌf/",
+    "part_of_speech": ["adjective", "adverb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "As much as required",
+          "example": "Enough food."
+        }
+      ]
+    },
+    "usage_examples": [
+      "This is enough."
+    ]
+  }
+}

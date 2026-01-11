@@ -1,0 +1,26 @@
+{
+  "edit": {
+    "word": "edit",
+    "phonetic": "/ˈɛdɪt/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To revise or correct content",
+          "example": "Edit the document."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "edit",
+      "past": "edited",
+      "past_participle": "edited",
+      "present_participle": "editing",
+      "third_person": "edits"
+    },
+    "synonyms": ["revise"],
+    "usage_examples": [
+      "She edited the video."
+    ]
+  }
+}

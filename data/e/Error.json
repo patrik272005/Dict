@@ -1,0 +1,19 @@
+{
+  "error": {
+    "word": "error",
+    "phonetic": "/ˈɛrər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A mistake",
+          "example": "System error."
+        }
+      ]
+    },
+    "synonyms": ["mistake"],
+    "usage_examples": [
+      "Fix the error."
+    ]
+  }
+}

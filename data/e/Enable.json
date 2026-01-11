@@ -1,0 +1,18 @@
+{
+  "enable": {
+    "word": "enable",
+    "phonetic": "/ɪˈneɪbəl/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To make something possible",
+          "example": "This feature enables access."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Enable the option."
+    ]
+  }
+}

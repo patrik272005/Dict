@@ -1,0 +1,20 @@
+{
+  "early": {
+    "word": "early",
+    "phonetic": "/ˈɜːrli/",
+    "part_of_speech": ["adjective", "adverb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Happening before the expected time",
+          "example": "She arrived early."
+        }
+      ]
+    },
+    "synonyms": ["soon"],
+    "antonyms": ["late"],
+    "usage_examples": [
+      "He wakes up early."
+    ]
+  }
+}

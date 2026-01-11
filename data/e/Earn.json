@@ -1,0 +1,26 @@
+{
+  "earn": {
+    "word": "earn",
+    "phonetic": "/ɜːrn/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To receive money for work done",
+          "example": "He earns a salary."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "earn",
+      "past": "earned",
+      "past_participle": "earned",
+      "present_participle": "earning",
+      "third_person": "earns"
+    },
+    "synonyms": ["gain"],
+    "usage_examples": [
+      "She earns respect."
+    ]
+  }
+}

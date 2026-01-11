@@ -1,0 +1,18 @@
+{
+  "escape": {
+    "word": "escape",
+    "phonetic": "/ɪˈskeɪp/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To get free from confinement",
+          "example": "Escape the danger."
+        }
+      ]
+    },
+    "usage_examples": [
+      "They escaped safely."
+    ]
+  }
+}

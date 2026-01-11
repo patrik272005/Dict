@@ -1,0 +1,19 @@
+{
+  "effort": {
+    "word": "effort",
+    "phonetic": "/ˈɛfərt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Physical or mental energy used",
+          "example": "Make an effort."
+        }
+      ]
+    },
+    "synonyms": ["attempt"],
+    "usage_examples": [
+      "Success needs effort."
+    ]
+  }
+}

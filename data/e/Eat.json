@@ -1,0 +1,26 @@
+{
+  "eat": {
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To consume food",
+          "example": "We eat lunch at noon."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "eat",
+      "past": "ate",
+      "past_participle": "eaten",
+      "present_participle": "eating",
+      "third_person": "eats"
+    },
+    "synonyms": ["consume"],
+    "usage_examples": [
+      "Eat healthy food."
+    ]
+  }
+}

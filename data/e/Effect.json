@@ -1,0 +1,19 @@
+{
+  "effect": {
+    "word": "effect",
+    "phonetic": "/ɪˈfɛkt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A result or outcome",
+          "example": "The effect was positive."
+        }
+      ]
+    },
+    "synonyms": ["result"],
+    "usage_examples": [
+      "This medicine has no side effects."
+    ]
+  }
+}

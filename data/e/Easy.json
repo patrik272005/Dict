@@ -1,0 +1,20 @@
+{
+  "easy": {
+    "word": "easy",
+    "phonetic": "/ˈiːzi/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not difficult to do or understand",
+          "example": "This question is easy."
+        }
+      ]
+    },
+    "synonyms": ["simple", "effortless"],
+    "antonyms": ["difficult", "hard"],
+    "usage_examples": [
+      "The exam was easy."
+    ]
+  }
+}

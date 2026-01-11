@@ -1,0 +1,19 @@
+{
+  "elder": {
+    "word": "elder",
+    "phonetic": "/ˈɛldər/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Older in age",
+          "example": "My elder brother."
+        }
+      ]
+    },
+    "synonyms": ["older"],
+    "usage_examples": [
+      "Respect your elders."
+    ]
+  }
+}

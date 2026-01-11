@@ -1,0 +1,18 @@
+{
+  "essential": {
+    "word": "essential",
+    "phonetic": "/ɪˈsɛnʃəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Absolutely necessary",
+          "example": "Essential services."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Water is essential."
+    ]
+  }
+}

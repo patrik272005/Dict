@@ -1,0 +1,19 @@
+{
+  "edge": {
+    "word": "edge",
+    "phonetic": "/ɛdʒ/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The outside limit of an object",
+          "example": "The edge of the table."
+        }
+      ]
+    },
+    "synonyms": ["border"],
+    "usage_examples": [
+      "Stand at the edge."
+    ]
+  }
+}

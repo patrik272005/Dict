@@ -1,0 +1,18 @@
+{
+  "either": {
+    "word": "either",
+    "phonetic": "/ˈiːðər/",
+    "part_of_speech": ["determiner", "adverb"],
+    "meanings": {
+      "determiner": [
+        {
+          "definition": "One or the other of two",
+          "example": "Either option is fine."
+        }
+      ]
+    },
+    "usage_examples": [
+      "You can choose either."
+    ]
+  }
+}

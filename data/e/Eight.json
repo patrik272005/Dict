@@ -1,0 +1,18 @@
+{
+  "eight": {
+    "word": "eight",
+    "phonetic": "/eɪt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The number 8",
+          "example": "She is eight years old."
+        }
+      ]
+    },
+    "usage_examples": [
+      "The clock struck eight."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "earth": {
+    "word": "earth",
+    "phonetic": "/ɜːrθ/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The planet on which we live",
+          "example": "Earth revolves around the sun."
+        }
+      ]
+    },
+    "synonyms": ["world", "globe"],
+    "usage_examples": [
+      "Protect the Earth."
+    ]
+  }
+}

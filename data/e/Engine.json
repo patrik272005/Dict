@@ -1,0 +1,18 @@
+{
+  "engine": {
+    "word": "engine",
+    "phonetic": "/ˈɛndʒɪn/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A machine that converts energy into motion",
+          "example": "Car engine."
+        }
+      ]
+    },
+    "usage_examples": [
+      "The engine is powerful."
+    ]
+  }
+}
