@@ -1,0 +1,18 @@
+{
+  "neighbor": {
+    "word": "neighbor",
+    "phonetic": "/ˈneɪbər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A person living nearby",
+          "example": "My neighbor is friendly."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Help your neighbor."
+    ]
+  }
+}

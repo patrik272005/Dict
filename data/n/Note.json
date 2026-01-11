@@ -1,0 +1,18 @@
+{
+  "note": {
+    "word": "note",
+    "phonetic": "/noʊt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A short written record",
+          "example": "Take a note."
+        }
+      ]
+    },
+    "usage_examples": [
+      "She wrote a note."
+    ]
+  }
+}

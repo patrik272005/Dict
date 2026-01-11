@@ -1,0 +1,19 @@
+{
+  "new": {
+    "word": "new",
+    "phonetic": "/njuː/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not old; recently made",
+          "example": "A new phone."
+        }
+      ]
+    },
+    "antonyms": ["old"],
+    "usage_examples": [
+      "She bought a new dress."
+    ]
+  }
+}

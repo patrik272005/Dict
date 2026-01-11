@@ -1,0 +1,26 @@
+{
+  "need": {
+    "word": "need",
+    "phonetic": "/niːd/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A requirement",
+          "example": "Food is a basic need."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To require something",
+          "example": "I need help."
+        }
+      ]
+    },
+    "synonyms": ["require"],
+    "antonyms": ["lack"],
+    "usage_examples": [
+      "We need water."
+    ]
+  }
+}

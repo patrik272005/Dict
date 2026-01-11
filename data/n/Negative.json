@@ -1,0 +1,19 @@
+{
+  "negative": {
+    "word": "negative",
+    "phonetic": "/ˈnɛɡətɪv/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Expressing denial or refusal",
+          "example": "A negative answer."
+        }
+      ]
+    },
+    "antonyms": ["positive"],
+    "usage_examples": [
+      "The result was negative."
+    ]
+  }
+}

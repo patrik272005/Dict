@@ -1,0 +1,18 @@
+{
+  "nature": {
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The physical world and living things",
+          "example": "Love nature."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Nature is beautiful."
+    ]
+  }
+}

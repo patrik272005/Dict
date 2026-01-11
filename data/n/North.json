@@ -1,0 +1,18 @@
+{
+  "north": {
+    "word": "north",
+    "phonetic": "/nɔːrθ/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Direction opposite to south",
+          "example": "North India."
+        }
+      ]
+    },
+    "usage_examples": [
+      "They traveled north."
+    ]
+  }
+}

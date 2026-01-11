@@ -1,0 +1,19 @@
+{
+  "normal": {
+    "word": "normal",
+    "phonetic": "/ˈnɔːrməl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Usual or typical",
+          "example": "Normal behavior."
+        }
+      ]
+    },
+    "antonyms": ["abnormal"],
+    "usage_examples": [
+      "Everything is normal."
+    ]
+  }
+}

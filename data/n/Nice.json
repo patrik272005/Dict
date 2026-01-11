@@ -1,0 +1,20 @@
+{
+  "nice": {
+    "word": "nice",
+    "phonetic": "/naɪs/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Kind and pleasant",
+          "example": "She is a nice person."
+        }
+      ]
+    },
+    "synonyms": ["kind"],
+    "antonyms": ["mean"],
+    "usage_examples": [
+      "Have a nice day."
+    ]
+  }
+}

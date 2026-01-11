@@ -1,0 +1,18 @@
+{
+  "number": {
+    "word": "number",
+    "phonetic": "/ˈnʌmbər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A mathematical value",
+          "example": "Phone number."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Write the correct number."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": {
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A word by which a person or thing is known",
+          "example": "His name is Rahul."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To give a name to someone or something",
+          "example": "They named the baby."
+        }
+      ]
+    },
+    "synonyms": ["title", "label"],
+    "usage_examples": [
+      "Please write your name."
+    ]
+  }
+}

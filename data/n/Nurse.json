@@ -1,0 +1,18 @@
+{
+  "nurse": {
+    "word": "nurse",
+    "phonetic": "/nɜːrs/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A person trained to care for the sick",
+          "example": "The nurse helped the patient."
+        }
+      ]
+    },
+    "usage_examples": [
+      "She is a nurse."
+    ]
+  }
+}

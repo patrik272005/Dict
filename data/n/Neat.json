@@ -1,0 +1,19 @@
+{
+  "neat": {
+    "word": "neat",
+    "phonetic": "/niːt/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Clean and tidy",
+          "example": "A neat room."
+        }
+      ]
+    },
+    "antonyms": ["messy"],
+    "usage_examples": [
+      "Keep your room neat."
+    ]
+  }
+}

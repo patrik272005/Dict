@@ -1,0 +1,19 @@
+{
+  "night": {
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The time of darkness",
+          "example": "It is night now."
+        }
+      ]
+    },
+    "antonyms": ["day"],
+    "usage_examples": [
+      "Good night."
+    ]
+  }
+}

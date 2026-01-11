@@ -1,0 +1,18 @@
+{
+  "neither": {
+    "word": "neither",
+    "phonetic": "/ˈnaɪðər/",
+    "part_of_speech": ["determiner"],
+    "meanings": {
+      "determiner": [
+        {
+          "definition": "Not one nor the other",
+          "example": "Neither answer is correct."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Neither option works."
+    ]
+  }
+}

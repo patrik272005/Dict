@@ -1,0 +1,20 @@
+{
+  "natural": {
+    "word": "natural",
+    "phonetic": "/ˈnætʃərəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Existing in nature, not made by humans",
+          "example": "Natural beauty."
+        }
+      ]
+    },
+    "synonyms": ["organic"],
+    "antonyms": ["artificial"],
+    "usage_examples": [
+      "She prefers natural food."
+    ]
+  }
+}

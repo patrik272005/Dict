@@ -1,0 +1,19 @@
+{
+  "nation": {
+    "word": "nation",
+    "phonetic": "/ˈneɪʃən/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A large group of people under one government",
+          "example": "India is a great nation."
+        }
+      ]
+    },
+    "synonyms": ["country"],
+    "usage_examples": [
+      "The nation celebrated Independence Day."
+    ]
+  }
+}

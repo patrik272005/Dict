@@ -1,0 +1,19 @@
+{
+  "narrow": {
+    "word": "narrow",
+    "phonetic": "/ˈnæroʊ/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not wide",
+          "example": "A narrow road."
+        }
+      ]
+    },
+    "antonyms": ["wide"],
+    "usage_examples": [
+      "The street is narrow."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "network": {
+    "word": "network",
+    "phonetic": "/ˈnɛtwɜːrk/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A group of connected systems",
+          "example": "Computer network."
+        }
+      ]
+    },
+    "usage_examples": [
+      "The network is slow."
+    ]
+  }
+}

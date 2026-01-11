@@ -1,0 +1,20 @@
+{
+  "near": {
+    "word": "near",
+    "phonetic": "/nɪər/",
+    "part_of_speech": ["adjective", "adverb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Close in distance",
+          "example": "The shop is near."
+        }
+      ]
+    },
+    "synonyms": ["close"],
+    "antonyms": ["far"],
+    "usage_examples": [
+      "My house is near the school."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "never": {
+    "word": "never",
+    "phonetic": "/ˈnɛvər/",
+    "part_of_speech": ["adverb"],
+    "meanings": {
+      "adverb": [
+        {
+          "definition": "At no time",
+          "example": "I never lie."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Never give up."
+    ]
+  }
+}

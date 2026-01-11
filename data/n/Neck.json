@@ -1,0 +1,18 @@
+{
+  "neck": {
+    "word": "neck",
+    "phonetic": "/nɛk/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The part of the body connecting head and shoulders",
+          "example": "He hurt his neck."
+        }
+      ]
+    },
+    "usage_examples": [
+      "She wore a necklace around her neck."
+    ]
+  }
+}

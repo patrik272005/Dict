@@ -1,0 +1,20 @@
+{
+  "noble": {
+    "word": "noble",
+    "phonetic": "/ˈnoʊbəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Having high moral qualities",
+          "example": "A noble act."
+        }
+      ]
+    },
+    "synonyms": ["honorable"],
+    "antonyms": ["dishonest"],
+    "usage_examples": [
+      "He has noble intentions."
+    ]
+  }
+}

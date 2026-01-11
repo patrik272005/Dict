@@ -1,0 +1,18 @@
+{
+  "now": {
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "part_of_speech": ["adverb"],
+    "meanings": {
+      "adverb": [
+        {
+          "definition": "At the present time",
+          "example": "Do it now."
+        }
+      ]
+    },
+    "usage_examples": [
+      "I am busy now."
+    ]
+  }
+}

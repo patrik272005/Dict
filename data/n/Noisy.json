@@ -1,0 +1,19 @@
+{
+  "noisy": {
+    "word": "noisy",
+    "phonetic": "/ˈnɔɪzi/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Making a lot of noise",
+          "example": "A noisy crowd."
+        }
+      ]
+    },
+    "antonyms": ["quiet"],
+    "usage_examples": [
+      "The street is noisy."
+    ]
+  }
+}

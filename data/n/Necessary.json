@@ -1,0 +1,20 @@
+{
+  "necessary": {
+    "word": "necessary",
+    "phonetic": "/ˈnɛsəsəri/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Required to be done",
+          "example": "Water is necessary for life."
+        }
+      ]
+    },
+    "synonyms": ["essential"],
+    "antonyms": ["optional"],
+    "usage_examples": [
+      "This step is necessary."
+    ]
+  }
+}

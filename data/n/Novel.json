@@ -1,0 +1,18 @@
+{
+  "novel": {
+    "word": "novel",
+    "phonetic": "/ˈnɒvəl/",
+    "part_of_speech": ["noun", "adjective"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A long fictional book",
+          "example": "She wrote a novel."
+        }
+      ]
+    },
+    "usage_examples": [
+      "I am reading a novel."
+    ]
+  }
+}

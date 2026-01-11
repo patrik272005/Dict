@@ -1,0 +1,18 @@
+{
+  "nutrition": {
+    "word": "nutrition",
+    "phonetic": "/njuːˈtrɪʃən/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The process of getting food for health",
+          "example": "Good nutrition is important."
+        }
+      ]
+    },
+    "usage_examples": [
+      "Children need proper nutrition."
+    ]
+  }
+}

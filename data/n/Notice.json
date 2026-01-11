@@ -1,0 +1,18 @@
+{
+  "notice": {
+    "word": "notice",
+    "phonetic": "/ˈnoʊtɪs/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To observe something",
+          "example": "Did you notice that?"
+        }
+      ]
+    },
+    "usage_examples": [
+      "He noticed the mistake."
+    ]
+  }
+}

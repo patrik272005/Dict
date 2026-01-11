@@ -1,0 +1,18 @@
+{
+  "nerve": {
+    "word": "nerve",
+    "phonetic": "/nɜːrv/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A fiber transmitting signals in the body",
+          "example": "Optic nerve."
+        }
+      ]
+    },
+    "usage_examples": [
+      "He damaged a nerve."
+    ]
+  }
+}
