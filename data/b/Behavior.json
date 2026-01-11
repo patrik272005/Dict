@@ -1,0 +1,19 @@
+{
+  "behavior": {
+    "word": "behavior",
+    "phonetic": "/bɪˈheɪvjər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The way someone acts",
+          "example": "Good behavior."
+        }
+      ]
+    },
+    "synonyms": ["conduct"],
+    "usage_examples": [
+      "His behavior was polite."
+    ]
+  }
+}

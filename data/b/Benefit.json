@@ -1,0 +1,26 @@
+{
+  "benefit": {
+    "word": "benefit",
+    "phonetic": "/ˈbɛnɪfɪt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An advantage or profit",
+          "example": "Health benefits."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To gain advantage",
+          "example": "You will benefit from exercise."
+        }
+      ]
+    },
+    "synonyms": ["advantage"],
+    "antonyms": ["disadvantage"],
+    "usage_examples": [
+      "This has many benefits."
+    ]
+  }
+}

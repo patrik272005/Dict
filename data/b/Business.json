@@ -1,0 +1,19 @@
+{
+  "business": {
+    "word": "business",
+    "phonetic": "/ˈbɪznɪs/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The activity of buying and selling",
+          "example": "Start a business."
+        }
+      ]
+    },
+    "synonyms": ["trade"],
+    "usage_examples": [
+      "Business is growing."
+    ]
+  }
+}

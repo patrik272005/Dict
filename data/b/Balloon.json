@@ -1,0 +1,25 @@
+{
+  "balloon": {
+    "word": "balloon",
+    "phonetic": "/bəˈluːn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A rubber bag filled with air or gas",
+          "example": "A red balloon."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To swell or expand",
+          "example": "Prices ballooned."
+        }
+      ]
+    },
+    "synonyms": ["inflate"],
+    "usage_examples": [
+      "The balloon flew away."
+    ]
+  }
+}

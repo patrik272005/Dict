@@ -1,0 +1,19 @@
+{
+  "basket": {
+    "word": "basket",
+    "phonetic": "/ˈbɑːskɪt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A container made of woven material",
+          "example": "A fruit basket."
+        }
+      ]
+    },
+    "synonyms": ["container"],
+    "usage_examples": [
+      "The basket is full."
+    ]
+  }
+}

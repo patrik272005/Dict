@@ -1,0 +1,26 @@
+{
+  "brush": {
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A tool with bristles",
+          "example": "A paint brush."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To clean or groom with a brush",
+          "example": "Brush your teeth."
+        }
+      ]
+    },
+    "synonyms": ["clean"],
+    "antonyms": [],
+    "usage_examples": [
+      "She brushed her hair."
+    ]
+  }
+}

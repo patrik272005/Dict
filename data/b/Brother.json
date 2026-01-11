@@ -1,0 +1,19 @@
+{
+  "brother": {
+    "word": "brother",
+    "phonetic": "/ˈbrʌðər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A male sibling",
+          "example": "My brother is tall."
+        }
+      ]
+    },
+    "synonyms": ["sibling"],
+    "usage_examples": [
+      "He is my elder brother."
+    ]
+  }
+}

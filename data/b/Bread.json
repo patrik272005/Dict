@@ -1,0 +1,20 @@
+{
+  "bread": {
+    "word": "bread",
+    "phonetic": "/brɛd/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Food made of flour, water, and yeast",
+          "example": "He ate bread for breakfast."
+        }
+      ]
+    },
+    "synonyms": ["loaf"],
+    "antonyms": [],
+    "usage_examples": [
+      "Fresh bread smells good."
+    ]
+  }
+}

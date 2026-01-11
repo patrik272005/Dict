@@ -1,0 +1,26 @@
+{
+  "balance": {
+    "word": "balance",
+    "phonetic": "/ˈbælɪns/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A state of equal distribution",
+          "example": "Keep your balance."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To keep steady",
+          "example": "Balance the stick."
+        }
+      ]
+    },
+    "synonyms": ["stability"],
+    "antonyms": ["imbalance"],
+    "usage_examples": [
+      "He lost his balance."
+    ]
+  }
+}

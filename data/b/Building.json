@@ -1,0 +1,19 @@
+{
+  "building": {
+    "word": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A structure with walls and a roof",
+          "example": "A tall building."
+        }
+      ]
+    },
+    "synonyms": ["structure"],
+    "usage_examples": [
+      "The building is old."
+    ]
+  }
+}

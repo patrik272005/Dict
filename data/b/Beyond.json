@@ -1,0 +1,19 @@
+{
+  "beyond": {
+    "word": "beyond",
+    "phonetic": "/bɪˈjɒnd/",
+    "part_of_speech": ["preposition"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "At or to the farther side",
+          "example": "Beyond the hills."
+        }
+      ]
+    },
+    "synonyms": ["past"],
+    "usage_examples": [
+      "This is beyond my understanding."
+    ]
+  }
+}

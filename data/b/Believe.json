@@ -1,0 +1,20 @@
+{
+  "believe": {
+    "word": "believe",
+    "phonetic": "/bɪˈliːv/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To accept something as true",
+          "example": "I believe you."
+        }
+      ]
+    },
+    "synonyms": ["trust"],
+    "antonyms": ["doubt"],
+    "usage_examples": [
+      "She believes in herself."
+    ]
+  }
+}

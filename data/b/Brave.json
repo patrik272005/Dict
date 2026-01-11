@@ -1,0 +1,27 @@
+{
+  "brave": {
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Showing courage and not afraid of danger",
+          "example": "The brave soldier saved the child."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To face something difficult or dangerous",
+          "example": "She braved the storm."
+        }
+      ]
+    },
+    "synonyms": ["courageous", "fearless", "bold"],
+    "antonyms": ["cowardly", "afraid"],
+    "usage_examples": [
+      "He is brave enough to speak the truth.",
+      "They braved harsh weather."
+    ]
+  }
+}

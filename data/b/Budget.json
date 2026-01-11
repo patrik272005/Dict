@@ -1,0 +1,25 @@
+{
+  "budget": {
+    "word": "budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A plan for income and expenses",
+          "example": "Monthly budget."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To plan expenses",
+          "example": "Budget your money."
+        }
+      ]
+    },
+    "synonyms": ["plan"],
+    "usage_examples": [
+      "We made a budget."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "blanket": {
+    "word": "blanket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A large piece of cloth for warmth",
+          "example": "Cover with a blanket."
+        }
+      ]
+    },
+    "synonyms": ["cover"],
+    "usage_examples": [
+      "The blanket is warm."
+    ]
+  }
+}

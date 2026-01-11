@@ -1,0 +1,19 @@
+{
+  "battery": {
+    "word": "battery",
+    "phonetic": "/ˈbætəri/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A device that stores electrical energy",
+          "example": "The battery is dead."
+        }
+      ]
+    },
+    "synonyms": ["cell"],
+    "usage_examples": [
+      "Charge the battery."
+    ]
+  }
+}

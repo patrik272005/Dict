@@ -1,0 +1,20 @@
+{
+  "bright": {
+    "word": "bright",
+    "phonetic": "/braɪt/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Giving out light",
+          "example": "A bright light."
+        }
+      ]
+    },
+    "synonyms": ["shiny"],
+    "antonyms": ["dark"],
+    "usage_examples": [
+      "The room is bright."
+    ]
+  }
+}

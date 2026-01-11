@@ -1,0 +1,26 @@
+{
+  "bridge": {
+    "word": "bridge",
+    "phonetic": "/brɪdʒ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A structure built to cross obstacles",
+          "example": "The bridge crosses the river."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To connect two things",
+          "example": "Education bridges gaps."
+        }
+      ]
+    },
+    "synonyms": ["link", "connection"],
+    "antonyms": ["divide"],
+    "usage_examples": [
+      "They walked across the bridge."
+    ]
+  }
+}

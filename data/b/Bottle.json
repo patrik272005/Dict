@@ -1,0 +1,26 @@
+{
+  "bottle": {
+    "word": "bottle",
+    "phonetic": "/ˈbɒtəl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A container with a narrow neck",
+          "example": "A bottle of water."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To put liquid into bottles",
+          "example": "They bottled the juice."
+        }
+      ]
+    },
+    "synonyms": ["container"],
+    "antonyms": [],
+    "usage_examples": [
+      "The bottle is empty."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "broken": {
+    "word": "broken",
+    "phonetic": "/ˈbrəʊkən/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Damaged or not working",
+          "example": "The glass is broken."
+        }
+      ]
+    },
+    "synonyms": ["damaged"],
+    "antonyms": ["fixed"],
+    "usage_examples": [
+      "My phone is broken."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "button": {
+    "word": "button",
+    "phonetic": "/ˈbʌtən/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A small fastener or switch",
+          "example": "Press the button."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To fasten with buttons",
+          "example": "Button your shirt."
+        }
+      ]
+    },
+    "synonyms": ["switch"],
+    "antonyms": ["unfasten"],
+    "usage_examples": [
+      "Click the power button."
+    ]
+  }
+}

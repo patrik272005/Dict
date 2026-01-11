@@ -1,0 +1,26 @@
+{
+  "ball": {
+    "word": "ball",
+    "phonetic": "/bɔːl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A round object used in games and sports",
+          "example": "He kicked the ball."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To form something into a round shape",
+          "example": "She balled the paper."
+        }
+      ]
+    },
+    "synonyms": ["sphere", "globe"],
+    "antonyms": [],
+    "usage_examples": [
+      "The ball rolled across the field."
+    ]
+  }
+}

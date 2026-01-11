@@ -1,0 +1,20 @@
+{
+  "brain": {
+    "word": "brain",
+    "phonetic": "/breɪn/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The organ that controls thought and action",
+          "example": "The brain controls the body."
+        }
+      ]
+    },
+    "synonyms": ["mind"],
+    "antonyms": [],
+    "usage_examples": [
+      "The human brain is complex."
+    ]
+  }
+}

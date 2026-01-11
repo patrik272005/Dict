@@ -1,0 +1,20 @@
+{
+  "beauty": {
+    "word": "beauty",
+    "phonetic": "/ˈbjuːti/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The quality of being pleasing",
+          "example": "Natural beauty."
+        }
+      ]
+    },
+    "synonyms": ["attractiveness"],
+    "antonyms": ["ugliness"],
+    "usage_examples": [
+      "She admired the beauty of nature."
+    ]
+  }
+}

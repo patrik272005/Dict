@@ -1,0 +1,20 @@
+{
+  "busy": {
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Having a lot to do",
+          "example": "I am busy today."
+        }
+      ]
+    },
+    "synonyms": ["occupied"],
+    "antonyms": ["free"],
+    "usage_examples": [
+      "She is busy working."
+    ]
+  }
+}

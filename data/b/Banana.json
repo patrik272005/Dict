@@ -1,0 +1,19 @@
+{
+  "banana": {
+    "word": "banana",
+    "phonetic": "/bəˈnɑːnə/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A long curved fruit",
+          "example": "He ate a banana."
+        }
+      ]
+    },
+    "synonyms": ["fruit"],
+    "usage_examples": [
+      "Bananas are healthy."
+    ]
+  }
+}

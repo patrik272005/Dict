@@ -1,0 +1,19 @@
+{
+  "bicycle": {
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkəl/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A two-wheeled vehicle powered by pedaling",
+          "example": "He rides a bicycle."
+        }
+      ]
+    },
+    "synonyms": ["bike"],
+    "usage_examples": [
+      "She bought a new bicycle."
+    ]
+  }
+}

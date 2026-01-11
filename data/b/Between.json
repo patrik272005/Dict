@@ -1,0 +1,18 @@
+{
+  "between": {
+    "word": "between",
+    "phonetic": "/bɪˈtwiːn/",
+    "part_of_speech": ["preposition"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "In the space separating two things",
+          "example": "Between you and me."
+        }
+      ]
+    },
+    "usage_examples": [
+      "The shop is between two houses."
+    ]
+  }
+}

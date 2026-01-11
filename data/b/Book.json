@@ -1,0 +1,26 @@
+{
+  "book": {
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A written or printed work consisting of pages",
+          "example": "She read a book."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To reserve something",
+          "example": "I booked a ticket."
+        }
+      ]
+    },
+    "synonyms": ["novel", "reserve"],
+    "antonyms": ["cancel"],
+    "usage_examples": [
+      "This book is very interesting."
+    ]
+  }
+}

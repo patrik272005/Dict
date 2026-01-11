@@ -1,0 +1,19 @@
+{
+  "butterfly": {
+    "word": "butterfly",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A flying insect with colorful wings",
+          "example": "A butterfly landed on the flower."
+        }
+      ]
+    },
+    "synonyms": ["insect"],
+    "usage_examples": [
+      "The butterfly is beautiful."
+    ]
+  }
+}
